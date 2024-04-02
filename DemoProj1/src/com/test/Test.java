@@ -4,7 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 	
-		System.out.println("Lead Is Here Hello");
+		System.out.println("Leader is Is Here Hello");
 
 	}
 
